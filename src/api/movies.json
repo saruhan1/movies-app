@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "name": "Loki",
+      "rating": "8.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "overview": "Avengers: Endgame olayları sırasında Tesseract'ı çaldıktan sonra, Loki'nin alternatif bir versiyonu, zaman ve mekanın dışında var olan ve zaman çizgisini izleyen bürokratik bir organizasyon olan gizemli Zaman Varyantları Otoritesi'ne getirilir. Zaman varyantı olması nedeniyle varlığının silinmesi veya zaman çizgisinin düzeltilmesine ve daha büyük bir tehdidin durdurulmasına yardımcı olmak için Loki'ye bir seçenek sunarlar.",
+      "id": 18
+    },
+    {
+      "name": "The Flash",
+      "rating": "7.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "overview": "Geçmişinde büyük bir trajedi yaşamış Barry Allen, Central City Polis Birimi’nde çalışan ve suçluların arkalarında bıraktıkları ipuçlarını toplayan bir adli laboratuvar asistanıdır. Talihsiz bir yıldırım kazası yaşamasının ardından süper hız gücüne sahip olan Barry, Flash kimliğine bürünür ve kötü adamları adalete teslim etmeyi kendine görev edinir!",
+      "id": 19
+    },
+    {
+      "name": "Hızlı ve Öfkeli 9",
+      "rating": "5.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6qcTy5Po5Vn4jnzVqMBv4AmBNWN.jpg",
+      "overview": "Vin Diesel’in Dom Toretto karakteri, oğlu küçük Brian ile gözlerden uzakta, sessiz bir hayat sürmektedir. Ama huzurlu çevrelerinin hemen ötesinde tehlikenin hep pusuda olduğunu biliyorlardır. Bu kez tehlike Dom’u, en sevdiklerini kurtarmak istiyorsa geçmişinin günahlarıyla yüzleşmeye zorlayacaktır. Dom'un ekibi, bugüne kadar karşılaştıkları en yetenekli suikastçı ve yüksek performans sürücüsü olan, Dom’un terk edilmiş erkek kardeşi Jakob’un (John Cena) liderliğindeki dünyayı yıkacak bir planı durdurmak için bir araya gelir.",
+      "id": 20
+    },
+    {
+      "name": "Turist",
+      "rating": "6.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwfUH9gnvaXwvVRsgbL4L2jpLUz.jpg",
+      "overview": "Hikaye, karısının vefatından sonra kırık kalbinin acısından kurtulmak için İtalya’ya giden Amerikalı bir matematik öğretmeni olan turist Frank Tupelo’nun (Johnny Depp) etrafında şekilleniyor. Olağanüstü derecede çekici bir kadın olan Elise Clifton-Ward’un (Angelina Jolie) yoluna çıkmasıyla Frank için işler birdenbire değişir. Ancak Elise’in onunla karşılaşması aslında tesadüf değildir. Arka planda Venedik’in nefes kesen manzaraları eşliğinde Frank, bir ilişkinin ardından koşarken aslında etrafında tehlikeli entrikaların döndüğünü fark eder.",
+      "id": 21
+    },
+    {
+      "name": "Yüzüklerin Efendisi: İki Kule",
+      "rating": "8.7",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eX1Yl1h9iVusGiqIrUA3cI16AbA.jpg",
+      "overview": "Yüzük Kardeşliği üyelerinin her birinin, kardeşlik bozulduktan sonra başlarına gelenler anlatılıyor. Kahramanlarımız, gruplar halinde Orta Dünya'nın en tehlikeli yerlerinde maceralar yaşayacaklar, yeni kavimler ve çoktan unutulmuş medeniyetlerle tanışacaklar.",
+      "id": 22
+    },
+    {
+      "name": "Karayip Korsanları",
+      "rating": "6.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qF4U9JhWl8GPc5B2m8uqjmLBpt.jpg",
+      "overview": "Gizemli Angelica (Penelope Cruz) ile yolları kesişen Jack Sparrow, bunun aşk olduğundan emin değildir – yoksa bu kadın onu efsanevi Gençlik Pınarı'nı bulmak için kullanmakta mıdır? Kadın onu efsane korsan Kara Sakal'ın gemisi \"Kraliçe Anne'in İntikamı\"na bindirdiğinde kendisini beklenmedik bir maceranın ortasında bulur ve kimden daha çok korkması gerektiğini bilemez: Kara Sakal'dan mı yoksa gizemli bir geçmişi paylaştığı Angelica'dan mı?",
+      "id": 23
+    },
+    {
+      "name": "Esaretin Bedeli ",
+      "rating": "9.3",
+      "overview": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOZrLKszfq8VOqPUxOVlSLwpY5W.jpg",
+      "id": 24
+    },
+    {
+      "name": "Kara Şövalye",
+      "rating": "9.0",
+      "overview": "Suç işleyenlerden arındırılan bir yer, bir zaman sonra yeniden tehdit altında kalabilir ve işte o zaman yeniden kolları sıvayacak olanların mücadelesi de daha keskin olarak hayata geçecektir. Batman, Teğmen Gordon ve Savcı Harvey Dent bir araya gelerek Gotham Sokakları’nda bu işi kotarmış olsalar da ansızın ortaya çıkan Joker, işleri fena halde bozar. Onun dehası ile baş etmek kolay olmayacaktır. Gotham eski karmaşa dolu günlerin eşiğindedir. Batman yeniden kurtarıcılığa soyunurken kendi varlığının bulduğu anlamı da sorgulamaya başlar...",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggax1nyhiGIwbq1Ynk0otH2sD6.jpg",
+      "id": 25
+    }
+  ]
+}
